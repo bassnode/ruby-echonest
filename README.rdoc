@@ -2,6 +2,8 @@
 
 A Ruby interface for Echo Nest Developer API
 
+== WARNING: This uses the now-deprecated Echonest API.  It needs to be upgraded to use their new (Spotify-based) API.
+
 == Description
 
 == Installation
